@@ -14,4 +14,3 @@ Here is a description of what is currently available:
 1. Unlimited number of categories
 2. My special flavor of a titler, (used to be popular back in the day)
 3. You can offer exclusive invites
-4. 
